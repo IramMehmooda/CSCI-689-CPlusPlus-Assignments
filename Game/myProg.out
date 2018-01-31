@@ -1,0 +1,137 @@
+Clock =  0 : NoBallsInAir = 0
+X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X X X X X 
+
+Clock =  10 : NoBallsInAir = 73
+X X X X X X X X X X X X X . X X . X X X X . X X X 
+X X X X X X X X X X X X X X X . X X . X X . X X X 
+X X X X X X X . X . . X X X X X X X X X X X X X X 
+X X X X X X X . X X X X X X X X X . . X X X X X X 
+X X . X X X X X X . X X X X X X X X . X X . X X . 
+. X . X X X X X X X X X X X X X X X X X . X X X X 
+X X . X X X X X X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X . X . X X . X X X X X X X 
+X . X X . X X X . X X X X X . X X . X X X X X X X 
+X X X X . X X X X X X X X X X X . X X X X . X X X 
+X X X X X X X X X X . X X X . X X X X . X X X X X 
+. X X X X . X X X X X X . X X . X X X X X X X X X 
+X X X X X . . X X X X X X X X X X X X X X X X X X 
+X X X X X . X X X X X X X X X . X X X X X X X X X 
+X X X X . X X X . X X X X X X X X X X X X X X X X 
+X X . X X X X X X X X X X . X X X X X X X X X X X 
+X X X X X X X . . X X X X X . X X X X X X X X X X 
+X . X X X X X X X X . . X X X X X X . X X X X X . 
+X X X X X . X X . . X X X X X . X X X X X X . X X 
+X X . . X X X X X X X X X X X X . X X X X X X X X 
+X X . X . X X X X X X X X X X X X X X X X X X X X 
+X X X X . X X X X X X X X . X X X X X X X X X X X 
+X X X X X X X X X X X . . X X . X X X X X X X X X 
+. X X X X X . . X X X X X X X X X X X X X X X X X 
+X X X X X X X X X X X X X X X X X X X X X . X X X 
+
+Clock =  20 : NoBallsInAir = 131
+. . . . . . X . . . X X X . X . . X . . . . X . . 
+. . . . . X . . X X . X . . . . X . . X . . X X X 
+. X . . . . . . X . . X . . X . . X . X . X X . X 
+. . X . . . . . X . X X X . . . X . . . . . . . . 
+. . . . . X . . . . . X X X . . . X . . X . . X . 
+. . . . . . X X X X . . . X . X . X . . . X . . X 
+. . . . X . . X . . . . X . . . . . X X . X . . . 
+. . . X X . . . X X . X . . . . . . X . X . . X . 
+X . X . . . . . . . X . X . . . . . . X X . . X . 
+. X X . . . . X X . . . . . X . . X X X . . . . . 
+. . . X . X . . . . . X . . . X . . . . . X X . . 
+. . X X . . . . . . . . . . . . . . X . . . . X . 
+X X . X . . . . . . X . X . X . . . . . . . X X . 
+. X X . . . . . X . . X X . X . . . . X . X . . X 
+. . . X . X . . . . . . . X . . . X X X . . . . . 
+. . . . . . X . . X . . X . X . . . X . X . . . . 
+. X X . . X . . . . . X X . . . . X . . . X . . X 
+. . X X X . . X X . . . X . . X . . . X . . . . . 
+X . . . . . . . . . . X . . X . X . X . . X . . . 
+X . . . X . . . . . . X . X X X . . X . . X X . . 
+. . . . . . X X . X X . . X . . X X X X . . . . . 
+. X X . . X . . . . . . X . . . X . . . X . X . . 
+. X . . . . . . . X . . . X . . X X . . . X X . . 
+. . . X X . . . . . . . . X . X . . X . . . . . . 
+. . X X X . . . . X . . . . . . X . . X . . X . . 
+
+Clock =  30 : NoBallsInAir = 11
+. . . . . . X . . . . . X . . . . X . . . . . . . 
+. . . . . X . . X . . X . . . . X . . X . . X . . 
+. X . . . . . . X . . X . . X . . X . X . . X . X 
+. . X . . . . . X . X X . . . . . . . . . . . . . 
+. . . . . X . . . . . X X X . . . . . . X . . . . 
+. . . . . . X X X . . . . X . X . . . . . . . . X 
+. . . . . . . X . . . . X . . . . . X . . . . . . 
+. . . . . . . . X . . X . . . . . . X . . . . X . 
+. . . . . . . . . . . . X . . . . . . . . . . X . 
+. X . . . . . . . . . . . . X . . X X X . . . . . 
+. . . . . X . . . . . X . . . X . . . . . X X . . 
+. . X . . . . . . . . . . . . . . . X . . . . X . 
+X X . . . . . . . . X . . . X . . . . . . . . X . 
+. . X . . . . . . . . X . . X . . . . X . X . . X 
+. . . . . . . . . . . . . X . . . X X X . . . . . 
+. . . . . . . . . X . . . . . . . . X . X . . . . 
+. X X . . X . . . . . . X . . . . X . . . X . . X 
+. . X . X . . X X . . . X . . . . . . X . . . . . 
+X . . . . . . . . . . X . . X . X . X . . X . . . 
+. . . . . . . . . . . X . . . X . . X . . X . . . 
+. . . . . . . . . X . . . X . . X X . . . . . . . 
+. X X . . . . . . . . . . . . . X . . . . . . . . 
+. X . . . . . . . X . . . X . . X X . . . X . . . 
+. . . . X . . . . . . . . . . X . . . . . . . . . 
+. . X . . . . . . X . . . . . . X . . . . . X . . 
+
+Clock =  35 : NoBallsInAir = 0
+. . . . . . X . . . . . X . . . . X . . . . . . . 
+. . . . . X . . X . . X . . . . X . . X . . X . . 
+. X . . . . . . X . . X . . X . . X . X . . X . X 
+. . X . . . . . X . X X . . . . . . . . . . . . . 
+. . . . . X . . . . . X X X . . . . . . X . . . . 
+. . . . . . X X X . . . . X . X . . . . . . . . X 
+. . . . . . . X . . . . X . . . . . X . . . . . . 
+. . . . . . . . X . . X . . . . . . X . . . . X . 
+. . . . . . . . . . . . X . . . . . . . . . . X . 
+. X . . . . . . . . . . . . X . . X X X . . . . . 
+. . . . . X . . . . . X . . . X . . . . . X X . . 
+. . X . . . . . . . . . . . . . . . X . . . . . . 
+X X . . . . . . . . X . . . X . . . . . . . . X . 
+. . X . . . . . . . . X . . X . . . . X . X . . X 
+. . . . . . . . . . . . . X . . . X X X . . . . . 
+. . . . . . . . . X . . . . . . . . X . X . . . . 
+. X X . . X . . . . . . X . . . . X . . . X . . X 
+. . X . X . . X X . . . X . . . . . . X . . . . . 
+X . . . . . . . . . . X . . X . X . X . . X . . . 
+. . . . . . . . . . . X . . . X . . X . . X . . . 
+. . . . . . . . . X . . . X . . X X . . . . . . . 
+. X X . . . . . . . . . . . . . X . . . . . . . . 
+. X . . . . . . . X . . . X . . X X . . . X . . . 
+. . . . X . . . . . . . . . . X . . . . . . . . . 
+. . X . . . . . . X . . . . . . X . . . . . X . . 
+The total simulation time is 35
+The maximum number of balls in air are 201
+Percentage of sprung traps = 81.92
